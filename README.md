@@ -1,6 +1,6 @@
 # Computer-Science-Quiz
 Designed and developed using python libraries tkinter(for UI), requests(for API).
-It will pick up random 10 questions from Open Trivia Database(OTD) through API and questions will be displayed to user one by one.
+It will pick up 10 random questions from Open Trivia Database(OTD) which is a quiz website through API and questions will be displayed to user one by one.
 These questions are going to be simple true/false type Questions.
 
 After selecting any of the option there are following possibilities:
